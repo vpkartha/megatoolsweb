@@ -1,0 +1,45 @@
+{
+  "name": "Bulk File Renamer Pro",
+  "price": 2,
+  "shortDescription": "Bulk Renamer Pro is a powerful file renaming utility that helps users rename multiple files quickly and efficiently across folders and subfolders. It allows batch replacement, removal, and addition of text in file names, and can also move renamed files to another folder automatically, saving time and eliminating repetitive manual work.",
+  "keybenefit": "Bulk Renamer Pro works completely on your local computer, so your files and folder details remain private and secure. Unlike online renaming tools, there is no need to upload sensitive file information to external websites.",
+  "version": "1.0.0",
+  "fileSize": "60MB",
+  "downloads": "2",
+  "releaseDate": "10th March 2026",
+  "requirements": "Windows 10 / 11",
+  "youtube": "https://youtu.be/Z5pS16MN2mI?si=lXeUT2oXpeW6sqEn",
+  "screenshots": [
+  "/images/BulkRenamer1.png",
+  "/images/BulkRenamer2.png"
+  ],
+  "features": [
+    "Rename multiple files in folders and subfolders",
+    "Replace specific text in file names with new text",
+    "Remove unwanted text or strings from file names",
+    "Add prefixes or suffixes to file names",
+    "Move renamed files to another folder automatically",
+    "Supports bulk processing for large numbers of files",
+    "Fast and lightweight performance",
+    "Simple and user-friendly interface",
+    "Works completely offline for enhanced privacy and security",
+    "No uploading of file information to external servers",
+    "Saves time by automating repetitive file renaming tasks"
+  ],
+  "faq": [
+    {
+      "q": "Is this software free?",
+      "a": "No. This is a premium utility"
+    },
+    {
+      "q": "Can I use it offline?",
+      "a": "Yes. Internet is not required after download."
+    }
+  ],
+  "relatedTools": [
+  {
+    "name": "PDF Merger Pro",
+    "slug": "pdf-merger-pro"
+  }
+]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "File Search Pro",
+  "price": 4.99,
+  "shortDescription": "File Search Pro is a fast and efficient utility that helps users quickly locate files based on file extension, full file name, or partial file name matches. By specifying a search folder, the software scans the selected directory and its subfolders to display all matching files instantly. The search results can also be automatically saved to a text file for easy reference and reporting.",
+  "keybenefit": "Unlike online file search tools, File Search Pro works completely on your local system, so your data never leaves your computer. There is no need to upload files or folder information to unknown websites, ensuring better privacy, security, and full control over your sensitive data.",
+  "version": "1.0.0",
+  "fileSize": "60MB",
+  "downloads": "2",
+  "releaseDate": "10th March 2026",
+  "requirements": "Windows 10 / 11",
+  "youtube": "https://youtu.be/4jJ1J8M7XUI?si=LO2UqoDXeJ3fZJ9m",
+  "screenshots": [
+    "/images/FileSearch1.png",
+    "/images/FileSearch2.png"
+  ],
+  "features": [
+    "Search by file extension (e.g., .pdf, .xlsx, .txt)",
+    "Search using full or partial file names",
+    "Supports recursive scanning of subfolders",
+    "Automatically saves search results to a text file",
+    "Works completely offline for enhanced privacy and security",
+    "No uploading of files or folder details to external websites",
+    "Fast and lightweight performance",
+    "Simple and user-friendly interface",
+    "Accurate and instant search results",
+    "Ideal for organizing and locating files in large directories",
+    "Flexible search path selection",
+    "Saves time by eliminating manual file browsing"
+  ],
+  "faq": [
+    {
+      "q": "Is this software free?",
+      "a": "No. This is a premium utility"
+    },
+    {
+      "q": "Can I use it offline?",
+      "a": "Yes. Internet is not required after download."
+    }
+  ],
+  "relatedTools": [
+    {
+      "name": "Bulk File Renamer Pro",
+      "slug": "bulk-renamer-pro"
+    }
+  ]
+}
